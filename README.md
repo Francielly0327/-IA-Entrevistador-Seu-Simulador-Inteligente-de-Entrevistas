@@ -1,5 +1,7 @@
 # Entrevista Simulada - Engenheira de Machine Learning Júnior
 
+Desafio de Projeto DIO "IA Entrevistador: Seu Simulador Inteligente de Entrevistas" do curso "CAIXA - Inteligência Artificial na Prática da DIO".
+
 Este repositório contém o registro de uma entrevista técnica simulada para a vaga de **Engenheira de Machine Learning Júnior**.  
 O objetivo é documentar perguntas e respostas, destacando pontos fortes, oportunidades de evolução e plano de estudos.
 
